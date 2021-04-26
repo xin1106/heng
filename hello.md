@@ -1,4 +1,4 @@
-[reader.md](https://github.com/xin1106/heng/blob/main/readme.md)
+[README.md](https://github.com/xin1106/heng/blob/main/README.md)
 ## heading1
 ### heading2
 > wo ai wyf <br>
